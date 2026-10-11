@@ -63,9 +63,10 @@ The apps share one runtime and one look, so they install side by side and hand w
 - **[voxprint-common](https://github.com/Mitroshenkov87/voxprint-common)**: the shared library behind every app, covering build info, the shared runtime manifest, GPU lock, downloads, splash screen and theme.
 - **[voxprint-model-forge](https://github.com/Mitroshenkov87/voxprint-model-forge)**: tooling that prepares, quantizes, evaluates and documents the local models the apps use.
 
-## What I stand for
+## How the apps work
 
-- Freedom of expression and open access to information.
-- Your data stays on your device: private, offline, under your control.
-- Tools for adults: you decide how to use them, and you are responsible for what you make.
-- Open source and open licences, so anyone can use, study and improve the tools.
+- Powerful AI tools available to everyone, on your own hardware, with no gatekeeping or paywalls.
+- Everything runs on your own PC, offline, with no account and no subscription.
+- Your files never leave your device.
+- Free and open source under the Apache-2.0 licence.
+- Built for current hardware: Windows 11 or Linux with an NVIDIA RTX 40-series GPU or newer.
